@@ -3,7 +3,7 @@ var avow = require('avow');
 
 // Functional Declarations
 function FizzBuzz(n) {
-     // I used for loop to make the flow woking untill i<=n and also I used condtions(if, else, ifelse) //to check the statement, if number(n) pass the condtion then it will return the output otherwise it //will go the next step and check the next condtion. This procee will repeat itself untill i<=n
+     // I used for loop to make the flow woking untill i<=n and also I used condtions(if, else, ifelse) //to check the statement, if number(n) pass the condtion then it will return the output otherwise //it will go the next step and check the next condtion. This procee will repeat itself untill i<=n
 
     var output= '';
     for(var i=1; i<=n; i++){
